@@ -103,6 +103,11 @@ button {
 .address-item:focus {
   color: #404bbf;
 }
+/* Main */
+.main {
+  margin: auto;
+}
+
 .hero {
   background: #2e2f42;
   margin: auto;
