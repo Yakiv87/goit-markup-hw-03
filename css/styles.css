@@ -66,6 +66,8 @@ button {
 }
 .address {
   font-style: normal;
+  padding: 24px 0;
+  margin-right: 76px;
 }
 .menu-link {
   font-family: 'Roboto', sans-serif;
