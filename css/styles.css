@@ -26,7 +26,7 @@ button {
   cursor: pointer;
 }
 .page-header {
-  border-bottom: 1px solid #e7e9fc;
+  /* border-bottom: 1px solid #e7e9fc; */
   width: 1440px;
   height: 72px;
   left: 0px;
@@ -35,7 +35,7 @@ button {
 .conteiner {
   margin-right: auto;
   margin-left: auto;
-  width: 1169px;
+  width: 1410px;
   display: flex;
   padding-left: 15px;
   padding-right: 15px;
