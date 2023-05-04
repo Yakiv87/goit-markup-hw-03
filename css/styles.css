@@ -25,6 +25,9 @@ body {
 button {
   cursor: pointer;
 }
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
 .conteiner {
   margin-right: auto;
   margin-left: auto;
