@@ -110,6 +110,8 @@ button {
   height: 600px;
   padding: 180px 0 188px;
   text-align: center;
+  left: 0px;
+  top: 72px;
 }
 .hero-text {
   font-family: 'Roboto', sans-serif;
