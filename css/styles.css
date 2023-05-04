@@ -73,6 +73,9 @@ button {
   font-style: normal;
   padding: 24px 0;
   margin-right: 76px;
+  display: block;
+  margin-top: 24px;
+  margin-bottom: 24px;
 }
 .menu-link {
   font-family: 'Roboto', sans-serif;
