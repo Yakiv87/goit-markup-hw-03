@@ -89,6 +89,10 @@ button {
   padding-top: 24px;
   padding-bottom: 24px;
 }
+.menu-item:last-child {
+  margin-right: 0;
+}
+
 .address-item {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
