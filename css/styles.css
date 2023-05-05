@@ -57,6 +57,10 @@ img {
   padding-left: 15px;
   padding-right: 15px;
 }
+.page-header-conteiner {
+  display: flex;
+  align-items: center;
+}
 .menu {
   display: flex;
   gap: 40px;
