@@ -44,11 +44,12 @@ img {
 }
 .page-header {
   /* border-bottom: 1px solid #e7e9fc; */
-  width: 1440px;
-  height: 72px;
-  left: 0px;
-  top: 0px;
+  display: flex;
+  align-items: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
+
 .conteiner {
   margin-right: auto;
   margin-left: auto;
