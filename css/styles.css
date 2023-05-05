@@ -63,7 +63,7 @@ img {
 }
 .menu {
   display: flex;
-  gap: 76px;
+  column-gap: 40px;
 }
 .nav {
   display: flex;
