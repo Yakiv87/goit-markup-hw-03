@@ -125,6 +125,7 @@ img {
   line-height: 1.5;
   color: var(--primary-text-color);
   letter-spacing: 0.02em;
+  margin-right: 40px;
 }
 .menu-link:hover,
 .menu-link:focus {
