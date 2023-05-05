@@ -189,8 +189,6 @@ img {
 /*section 2*/
 
 .exempel {
-  display: flex;
-  flex-wrap: wrap;
 }
 
 .feature {
