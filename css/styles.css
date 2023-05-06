@@ -234,6 +234,10 @@ img {
 .promo {
   padding-bottom: 120px;
 }
+.promo-img-last:last-child {
+  margin-right: 0;
+}
+
 .desc {
   margin-top: 0;
   margin-bottom: 72px;
