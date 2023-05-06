@@ -310,6 +310,8 @@ img {
   gap: 32px;
   background: #ffffff;
   padding-bottom: 120px;
+  width: 264px;
+  height: 380px;
 }
 /*footer*/
 .footer {
