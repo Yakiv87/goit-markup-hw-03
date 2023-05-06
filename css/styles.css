@@ -198,7 +198,7 @@ img {
 
 .exempel {
   padding-top: 120px;
-  padding-bottom: 0px;
+  padding-bottom: 120px;
 }
 
 .text-exempel {
@@ -230,13 +230,16 @@ img {
 }
 
 /*what are we doing*/
-/*.promo {
+.promo {
   padding-bottom: 120px;
-}*/
+}
+.promo-img {
+  width: calc((100% - 48px) / 3);
+}
 
 .desc {
   padding-top: 0;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
   margin-right: auto;
   margin-left: auto;
   font-family: 'Roboto', sans-serif;
