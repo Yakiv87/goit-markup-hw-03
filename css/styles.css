@@ -294,10 +294,12 @@ img {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
+.first-employee {
+  flex-basis: calc((100% - 72px) / 4);
+}
 .employee-fon {
   background: #ffffff;
   padding-bottom: 120px;
-  flex-basis: calc((100% - 72px) / 4);
 }
 /*footer*/
 .footer {
