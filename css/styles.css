@@ -280,6 +280,9 @@ img {
 .employee-list {
   display: flex;
   column-gap: 24px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
 }
 .employee {
   padding-top: 32px;
