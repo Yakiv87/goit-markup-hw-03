@@ -359,6 +359,7 @@ img {
   color: #f4f4fd;
 }
 /* Portfolio */
+
 .btn-filter {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -373,6 +374,13 @@ img {
 .btn-filter:focus {
   color: #ffffff;
   background-color: #404bbf;
+}
+.list-button {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 24px;
 }
 .project-card {
   font-family: 'Roboto', sans-serif;
