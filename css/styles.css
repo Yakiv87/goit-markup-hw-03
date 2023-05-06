@@ -320,6 +320,7 @@ img {
   background: #2e2f42;
 }
 .text-footer {
+  margin: 0;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
