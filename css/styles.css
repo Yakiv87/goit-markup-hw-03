@@ -228,9 +228,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
-.text-exempel-one {
-  flex-basis: calc((100% - 72px) / 4);
-}
+
 /*what are we doing*/
 .promo {
   padding-bottom: 120px;
