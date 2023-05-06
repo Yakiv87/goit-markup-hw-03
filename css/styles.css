@@ -272,6 +272,8 @@ img {
   text-transform: capitalize;
   color: #2e2f42;
   text-align: center;
+  padding-top: 120px;
+  padding-bottom: 70px;
 }
 .employee {
   font-family: 'Roboto', sans-serif;
