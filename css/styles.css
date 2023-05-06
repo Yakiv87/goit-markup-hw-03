@@ -204,6 +204,7 @@ img {
 }
 .feature-description {
   text-align: start;
+  margin-bottom: 0;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 400;
