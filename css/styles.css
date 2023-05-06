@@ -275,7 +275,12 @@ img {
   padding-top: 120px;
   padding-bottom: 70px;
 }
+/* employee */
 
+.employee-list {
+  display: flex;
+  column-gap: 30px;
+}
 .employee {
   padding-top: 32px;
   font-family: 'Roboto', sans-serif;
