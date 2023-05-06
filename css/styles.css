@@ -388,6 +388,7 @@ img {
   align-items: flex-start;
   padding: 0px;
   gap: 24px;
+  justify-content: center;
 }
 .project-card {
   font-family: 'Roboto', sans-serif;
