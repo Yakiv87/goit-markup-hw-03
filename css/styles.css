@@ -300,7 +300,6 @@ img {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
-
 .employee-fon {
   display: flex;
   flex-direction: column;
