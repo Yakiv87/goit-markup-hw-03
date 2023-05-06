@@ -251,7 +251,7 @@ img {
   text-transform: capitalize;
 }
 .list-promo-img {
-  padding: 0 15px;
+  padding: 0px;
   margin: auto;
   gap: 24px;
   display: flex;
