@@ -298,6 +298,7 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
+  padding-bottom: 8px;
 }
 .worker {
   padding-top: 32px;
