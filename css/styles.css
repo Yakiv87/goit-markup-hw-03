@@ -223,6 +223,8 @@ img {
   flex-basis: calc((100% - 72px) / 4);
 }
 /*what are we doing*/
+.promo {
+}
 .desc {
   margin-top: 0;
   margin-bottom: 72px;
