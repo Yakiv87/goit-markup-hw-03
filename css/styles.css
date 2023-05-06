@@ -113,6 +113,11 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
 }
+.list-contact {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
 .menu-item:last-child {
   margin-right: 0;
 }
