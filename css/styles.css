@@ -250,6 +250,9 @@ img {
   text-align: center;
   text-transform: capitalize;
 }
+.list-promo-first {
+  gap: 24px;
+}
 .list-promo-img {
   padding: 0 15px;
   margin: auto;
