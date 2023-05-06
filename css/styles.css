@@ -299,6 +299,12 @@ img {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
+.worker {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
 
 .employee-fon {
   display: flex;
