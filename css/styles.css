@@ -331,10 +331,9 @@ img {
 }
 .logo-footer {
   align-items: center;
-  padding: 0px;
-  width: 115px;
-  height: 24px;
-  left: 156px;
+  padding-left: 156px;
+  padding-top: 100px;
+  padding-bottom: 16px;
   margin-bottom: 16px;
   color: var(--second-color-btn);
 }
