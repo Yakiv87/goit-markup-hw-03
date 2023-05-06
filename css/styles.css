@@ -301,11 +301,11 @@ img {
   color: var(--primary-text-color);
   padding-bottom: 8px;
 }
-.worker {
+/*.worker {
   padding-top: 32px;
   padding-bottom: 32px;
   margin-bottom: 120px;
-}
+}*/
 
 .employee-fon {
   display: flex;
