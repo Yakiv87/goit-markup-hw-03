@@ -236,6 +236,11 @@ img {
   text-align: center;
   text-transform: capitalize;
 }
+.list-promo-img {
+  padding: 0 15px;
+  margin: auto;
+  gap: 24px;
+}
 /*our team*/
 
 .team-list {
