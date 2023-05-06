@@ -275,6 +275,7 @@ img {
   padding-top: 120px;
   padding-bottom: 70px;
 }
+
 .employee {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -295,6 +296,8 @@ img {
 }
 .employee-fon {
   background: #ffffff;
+  padding-top: 72px;
+  padding-bottom: 120px;
 }
 /*footer*/
 .footer {
