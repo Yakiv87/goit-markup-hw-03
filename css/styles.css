@@ -302,9 +302,9 @@ img {
   color: var(--primary-text-color);
   padding-bottom: 8px;
 }
-.worker {
+/*.worker {
   border: 1px solid #f4f4fd;
-}
+}*/
 
 .employee-fon {
   display: flex;
