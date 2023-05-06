@@ -299,6 +299,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
   padding-bottom: 8px;
+  text-align: center;
 }
 .worker {
   padding-top: 32px;
