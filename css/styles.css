@@ -43,7 +43,7 @@ img {
   display: block;
 }
 .page-header {
-  /* border-bottom: 1px solid #e7e9fc; */
+  border-bottom: 1px solid #e7e9fc;
   display: flex;
   align-items: center;
   padding-top: 24px;
