@@ -253,6 +253,7 @@ img {
   padding: 0 15px;
   margin: auto;
   gap: 24px;
+  display: flex;
 }
 /*our team*/
 
