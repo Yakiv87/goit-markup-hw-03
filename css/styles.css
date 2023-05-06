@@ -279,7 +279,7 @@ img {
 
 .employee-list {
   display: flex;
-  column-gap: 30px;
+  column-gap: 24px;
 }
 .employee {
   padding-top: 32px;
