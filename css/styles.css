@@ -198,7 +198,7 @@ img {
 
 .exempel {
   padding-top: 120px;
-  margin-bottom: 0px;
+  padding-bottom: 0px;
 }
 
 .text-exempel {
@@ -235,7 +235,7 @@ img {
 }*/
 
 .desc {
-  margin-top: 120px;
+  margin-top: 0px;
   margin-bottom: 72px;
   margin-right: auto;
   margin-left: auto;
