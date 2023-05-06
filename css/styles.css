@@ -234,9 +234,6 @@ img {
 .promo {
   padding-bottom: 120px;
 }
-.promo-img-last:last-child {
-  margin-right: 0;
-}
 
 .desc {
   margin-top: 0;
@@ -258,6 +255,7 @@ img {
   margin: auto;
   gap: 24px;
   display: flex;
+  justify-content: center;
 }
 /*our team*/
 
