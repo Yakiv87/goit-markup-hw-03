@@ -291,9 +291,6 @@ img {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.name-employee {
-  padding: 32px 16px;
-}
 .employee-position {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -303,6 +300,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
+
 .employee-fon {
   display: flex;
   flex-direction: column;
