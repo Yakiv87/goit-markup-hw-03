@@ -382,6 +382,13 @@ img {
   padding: 0px;
   gap: 24px;
 }
+.list-project-card {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 24px;
+}
 .project-card {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
