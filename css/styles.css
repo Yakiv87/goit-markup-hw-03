@@ -192,6 +192,8 @@ img {
 
 .feature {
   text-align: start;
+  margin-top: 0;
+  margin-bottom: 8px;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
