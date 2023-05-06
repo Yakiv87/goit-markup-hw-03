@@ -153,6 +153,7 @@ img {
 .hero-text {
   border: none;
   margin: auto;
+  margin-bottom: 48px;
   border-radius: 4px;
   padding: 16px 32px;
   font-family: 'Roboto', sans-serif;
