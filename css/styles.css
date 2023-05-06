@@ -146,7 +146,8 @@ img {
   margin: auto;
   width: 1440px;
   height: 600px;
-  padding: 180px 0 188px;
+  padding-top: 180px;
+  padding-bottom: 180px;
   text-align: center;
 }
 .hero-text {
