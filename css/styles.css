@@ -190,6 +190,10 @@ img {
 .exempel {
 }
 
+.text-exempel {
+  width: 264px;
+  height: 104px;
+}
 .feature {
   text-align: start;
   margin-top: 0;
