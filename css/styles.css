@@ -71,7 +71,6 @@ img {
   display: flex;
   align-items: center;
   column-gap: 40px;
-  justify-content: space-between;
 }
 .logo {
   font-family: 'Raleway', sans-serif;
