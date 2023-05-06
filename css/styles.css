@@ -191,6 +191,7 @@ img {
 }
 
 .feature {
+  text-align: start;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -200,6 +201,7 @@ img {
   color: #2e2f42;
 }
 .feature-description {
+  text-align: start;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 400;
