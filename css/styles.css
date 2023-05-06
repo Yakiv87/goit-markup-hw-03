@@ -250,9 +250,6 @@ img {
   text-align: center;
   text-transform: capitalize;
 }
-.list-promo-first {
-  gap: 24px;
-}
 .list-promo-img {
   padding: 0 15px;
   margin: auto;
@@ -283,9 +280,6 @@ img {
 .employee-list {
   display: flex;
   column-gap: 24px;
-  flex: none;
-  order: 0;
-  flex-grow: 0;
 }
 .employee {
   padding-top: 32px;
