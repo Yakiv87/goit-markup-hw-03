@@ -295,9 +295,7 @@ img {
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
 }
-.first-employee {
-  flex-basis: calc((100% - 72px) / 4);
-}
+
 .employee-fon {
   display: flex;
   flex-direction: column;
