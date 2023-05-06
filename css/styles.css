@@ -415,4 +415,10 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 0px 16px;
+  gap: 8px;
 }
