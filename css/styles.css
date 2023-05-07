@@ -275,6 +275,14 @@ img {
   background: #f4f4fd;
   padding: 120px 0;
 }
+.list-promo-img-second {
+  padding: 0px;
+  margin: auto;
+  gap: 24px;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 120px;
+}
 .ourteam {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
