@@ -236,8 +236,6 @@ img {
 .promo {
   padding-bottom: 120px;
 }
-.promo-img {
-}
 
 .desc {
   padding-top: 0;
@@ -396,9 +394,9 @@ img {
   gap: 24px;
   justify-content: center;
 }
-/*.card {
+.card {
   flex-basis: calc((100% - 48px) / 3);
-}*/
+}
 .list-project-card {
   display: flex;
   flex-direction: row;
