@@ -298,16 +298,13 @@ img {
 }
 /* employee */
 
-.employee-list {
-  display: flex;
-  gap: 24px;
-}
-.employee-fon-first {
-  width: calc((100% - 72px) / 4);
+/* .employee-fon-first { 
+   width: calc((100% - 72px) / 4); 
   border-radius: 0px 0px 4px 4px;
-}
+}*/
+
 .employee {
-  padding-top: 32px;
+  /* padding-top: 32px; */
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -327,7 +324,6 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: var(--primary-text-color);
-  padding-bottom: 8px;
   text-align: center;
 }
 .worker {
@@ -345,6 +341,7 @@ img {
   align-items: center;
   padding-bottom: 32px;
   background: #ffffff;
+  width: calc((100% - 72px) / 4);
   /* box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 
     0px 2px 1px rgba(46, 47, 66, 0.08);
   border-radius: 0px 0px 4px 4px;*/
