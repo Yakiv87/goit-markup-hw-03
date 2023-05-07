@@ -394,8 +394,7 @@ img {
   background-color: var(--background-color-btn);
   color: var(--second-color-btn);
   padding: 12px 24px;
-   border: 1px solid #e7e9fc
-  border-radius: 4px;
+  border: 1px solid #e7e9fc;
 }
 .btn-filter:hover,
 .btn-filter:focus {
@@ -419,19 +418,19 @@ img {
 }
 .list-project-card {
   display: flex;
-  margin-bottom: 8px 
-  /* justify-content: center; */
-  /* padding-bottom: 96px; */
-  flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
-  /* flex-direction: row; 
+  flex-wrap: wrap;
+}
+/* flex-direction: row; 
   align-items: start;*/
-  /* padding: 0px; */
-  /* margin-left: auto; 
+/* padding: 0px; */
+/* margin-left: auto; 
   margin-right: auto;
   max-width: 1158px;*/
-}
+/* justify-content: center; */
+/* padding-bottom: 96px; */
+
 .project-card {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
