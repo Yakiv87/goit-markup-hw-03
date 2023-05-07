@@ -406,6 +406,7 @@ img {
   padding-bottom: 96px;
   flex-wrap: wrap;
   column-gap: 24px;
+  row-gap: 48px;
 }
 .project-card {
   font-family: 'Roboto', sans-serif;
