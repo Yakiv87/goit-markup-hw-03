@@ -362,6 +362,7 @@ img {
 /* Portfolio */
 .portfolio {
   padding: 96px 0 120px;
+  display: flex;
 }
 .btn-filter {
   font-family: 'Roboto', sans-serif;
