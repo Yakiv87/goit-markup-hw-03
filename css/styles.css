@@ -348,14 +348,12 @@ img {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+  max-width: 264px;
 }
 .logo-footer {
-  align-items: center;
-  padding-left: 156px;
-  padding-top: 100px;
-  padding-bottom: 16px;
+  display: inline-block;
   margin-bottom: 16px;
-  color: var(--second-color-btn);
+  *color: ar(--second-color-btn);
 }
 .span-logo-footer {
   font-family: 'Raleway', sans-serif;
