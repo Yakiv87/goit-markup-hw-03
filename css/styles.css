@@ -211,6 +211,7 @@ img {
 }
 
 .text-exempel {
+  width: 264px;
 }
 .text-exempel-first {
   width: calc((100% - 48px) / 4);
