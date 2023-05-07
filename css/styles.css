@@ -404,6 +404,7 @@ img {
   gap: 24px;
   justify-content: center;
   padding-bottom: 96px;
+  flex-wrap: wrap;
 }
 .project-card {
   font-family: 'Roboto', sans-serif;
