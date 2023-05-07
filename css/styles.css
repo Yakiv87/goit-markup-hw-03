@@ -217,7 +217,7 @@ img {
   width: calc((100% - 48px) / 4);
 }
 .feature {
-  text-align: center;
+  text-align: start;
   margin-top: 0;
   margin-bottom: 8px;
   font-family: 'Roboto', sans-serif;
