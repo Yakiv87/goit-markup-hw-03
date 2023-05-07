@@ -276,6 +276,7 @@ img {
   padding: 120px 0;
 }
 .ourteam {
+  display: flex;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 700;
