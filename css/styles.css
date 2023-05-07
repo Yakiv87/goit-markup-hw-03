@@ -153,12 +153,12 @@ img {
 
 .hero {
   background: #2e2f42;
-  margin: auto;
-  width: 1440px;
-  height: 600px;
   padding-top: 188px;
   padding-bottom: 188px;
-  text-align: center;
+  /*text-align: center; 
+  margin: auto;
+  width: 1440px;
+  height: 600px;*/
 }
 .hero-text {
   margin: auto;
