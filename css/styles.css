@@ -406,9 +406,9 @@ img {
   gap: 24px;
   justify-content: center;
 }
-/* .card-first { 
+.card-first {
   width: calc((100% - 48px) / 3);
-}*/
+}
 .list-project-card {
   display: flex;
   flex-direction: row;
@@ -446,4 +446,5 @@ img {
   border: 1px solid #e7e9fc;
   border-top: none;
   padding: 32px 16px;
+  margin-bottom: 8px;
 }
