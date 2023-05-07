@@ -400,7 +400,7 @@ img {
 .list-project-card {
   display: flex;
   flex-direction: row;
-  align-items: flex-start;
+  align-items: centert;
   padding: 0px;
   gap: 24px;
   justify-content: center;
@@ -408,6 +408,8 @@ img {
   flex-wrap: wrap;
   column-gap: 24px;
   row-gap: 48px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .project-card {
   font-family: 'Roboto', sans-serif;
