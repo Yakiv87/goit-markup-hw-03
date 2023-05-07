@@ -215,7 +215,7 @@ img {
   height: 104px;
 }
 .text-exempel-first {
-  width: calc((100% - 48px) / 3);
+  width: calc((100% - 48px) / 4);
 }
 .feature {
   text-align: start;
