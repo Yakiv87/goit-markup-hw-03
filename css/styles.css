@@ -185,6 +185,7 @@ img {
   padding: 16px 32px;
   min-width: 169px;
   height: 56px;
+  border: none;
   font-family: 'Roboto', sans-serif;
   font-style: normal;
   font-weight: 500;
@@ -192,7 +193,8 @@ img {
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: var(--primary-background-color);
-  background: #4d5ae5;
+  background: var(--second-color-btn);
+  cursor: pointer;
 }
 .order-btn:hover,
 .order-btn:focus {
