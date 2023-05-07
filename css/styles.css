@@ -366,7 +366,9 @@ img {
   color: #f4f4fd;
 }
 /* Portfolio */
-
+.portfolio {
+  padding: 96px 0 120px;
+}
 .btn-filter {
   font-family: 'Roboto', sans-serif;
   font-style: normal;
@@ -376,18 +378,22 @@ img {
   letter-spacing: 0.04em;
   background-color: var(--background-color-btn);
   color: var(--second-color-btn);
+  padding: 12px 24px;
+  border: 1px solid var(--second-color-btn);
+  border-radius: 4px;
 }
 .btn-filter:hover,
 .btn-filter:focus {
   color: #ffffff;
   background-color: #404bbf;
+  border: 1px solid transparent;
 }
 .list-button {
   display: flex;
   flex-direction: row;
   align-items: center;
   padding-top: 96px;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
   margin-left: auto;
   margin-right: auto;
   gap: 24px;
