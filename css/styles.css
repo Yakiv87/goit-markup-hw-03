@@ -80,7 +80,6 @@ img {
 .nav {
   display: flex;
   align-items: center;
-  column-gap: 40px;
 }
 .logo {
   font-family: 'Raleway', sans-serif;
@@ -90,9 +89,8 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  padding: 24px 0;
-  margin-right: 76px;
 }
+
 .span-logo {
   font-family: 'Raleway', sans-serif;
   font-style: normal;
